@@ -9,3 +9,4 @@ Project made for the class ECE 542 - Neural Networks at North Carolina State Uni
 <br>
 
 - [Final Presentation](https://github.com/Chinmay-47/stable-diffusion-image-prompt-embedding/blob/main/Final_Presentation.pdf)
+- [CNN Encoder](https://github.com/Chinmay-47/stable-diffusion-image-prompt-embedding/blob/main/CNN_Encoder_approach.ipynb)
